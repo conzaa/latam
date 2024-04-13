@@ -13,5 +13,5 @@
 ## git commit -m "segundo"
 ## git add .
 ## git commit -m "errores corregidos"
-## git remote add origin https://github.com/ingridoa/evaluciongit.git
+## git remote add origin [https://](https://github.com/conzaa/latam.git)
 ## git push -u origin development
