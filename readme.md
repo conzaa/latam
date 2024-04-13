@@ -7,11 +7,11 @@
 ## mv style.css ./assets/css
 ## git init
 ## git add .
-## git commit -m "Primero"
+## git commit -m "uno"
 ## git checkout -b development
 ## git add .
-## git commit -m "segundo"
-## git add .
 ## git commit -m "errores corregidos"
-## git remote add origin https://github.com/ingridoa/evaluciongit.git
+## git remote add origin https://github.com/conzaa/latam.git
 ## git push -u origin development
+## git add .
+## git commit -m "dos"
